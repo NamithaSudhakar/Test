@@ -1,6 +1,8 @@
 package com.example.myapplication
 
-class Ntest 
-{
-  Checking the Pull
+import androidx.appcompat.app.AppCompatActivity
+
+class Ntest : AppCompatActivity() {
+
+
 }
